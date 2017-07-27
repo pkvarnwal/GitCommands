@@ -6,3 +6,4 @@
 * git commit -m "Desc" : To commit added files
 * git push origin branch : To push branch on github
 * git pull origin branch : To pull branch from github
+* git log --pretty=oneline : Show all branch commits and its message.
