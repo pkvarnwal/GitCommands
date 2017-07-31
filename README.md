@@ -7,3 +7,4 @@
 * git push origin branch : To push branch on github
 * git pull origin branch : To pull branch from github
 * git log --pretty=oneline : Show all branch commits and its message.
+* git config credential.helper store : To store username and password for specific git project
