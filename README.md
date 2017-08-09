@@ -14,3 +14,4 @@
 +	iii. recover form here 
 
 * git checkout -b <branchname> : Create a new branch and switch to it
+* git checkout <branchname> : Swotch to a specific branch
