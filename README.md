@@ -14,4 +14,5 @@
 +	iii. recover form here 
 
 * git checkout -b <branchname> : Create a new branch and switch to it
-* git checkout <branchname> : Swotch to a specific branch
+* git checkout <branchname> : Switch to a specific branch
+* git push --all origin : Push all branches to your remote repository.
