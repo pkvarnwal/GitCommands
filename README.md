@@ -9,8 +9,8 @@
 * git log --pretty=oneline : Show all branch commits and its message.
 * git config credential.helper store : To store username and password for specific git project
 * Recover from git reset --hard HEAD : 
-	i. git fsck --lost-found
-	ii. cd .git/lost-found/
-	iii. recover form here
-* git checkout -b <branchname> : Create a new branch and switch to it.
-* git checkout <branchname> : Switch from one branch to another.
++	i. git fsck --lost-found
++	ii. cd .git/lost-found/
++	iii. recover form here 
+
+* git checkout -b <branchname> : Create a new branch and switch to it
