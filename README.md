@@ -19,3 +19,4 @@
 * git diff : To show changes in all files.
 * git diff --base <fileName> : To show changes in specific file
 * git push --tags origin : Push all tags to remote repository.
+* git info : Show information about repo.
