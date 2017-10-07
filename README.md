@@ -20,9 +20,9 @@
 * git diff --base <fileName> : To show changes in specific file
 * git push --tags origin : Push all tags to remote repository.
 * git info : Show information about repo.
-* # rm all files
+* ### rm all files
     git rm -r --cached .
-* # add all files as per new .gitignore
+* ### add all files as per new .gitignore
     git add .
-* # now, commit for new .gitignore to apply
+* ### now, commit for new .gitignore to apply
     git commit -m ".gitignore is now working"
