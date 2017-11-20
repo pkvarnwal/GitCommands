@@ -26,3 +26,8 @@
 * git add .
 ### now, commit for new .gitignore to apply
 * git commit -m ".gitignore is now working"
+
+### Git push rejected
+* git fetch
+* git rebase dev
+* git push origin dev
