@@ -31,3 +31,8 @@
 * git fetch
 * git rebase dev
 * git push origin dev
+
+### Ignore files that have already been committed to a Git repository
+* git rm -r --cached
+* git add .
+* git commit -m ".gitigonre is now working"
