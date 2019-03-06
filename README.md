@@ -36,3 +36,6 @@
 * git rm -r --cached .
 * git add .
 * git commit -m ".gitigonre is now working"
+
+### To count number of commits
+* git count
