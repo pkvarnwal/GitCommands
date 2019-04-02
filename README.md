@@ -13,8 +13,8 @@
 +	ii. cd .git/lost-found/
 +	iii. recover form here 
 
-* git checkout -b <branchname> : Create a new branch and switch to it
-* git checkout <branchname> : Switch to a specific branch
+* git checkout -b branchname : Create a new branch and switch to it
+* git checkout branchname : Switch to a specific branch
 * git push --all origin : Push all branches to your remote repository.
 * git diff : To show changes in all files.
 * git diff --base <fileName> : To show changes in specific file
