@@ -39,3 +39,6 @@
 
 ### To count number of commits
 * git count conflict commit
+
+### To install git extras command in mac
+* brew install git-extras
