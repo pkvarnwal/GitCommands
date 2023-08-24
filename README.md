@@ -2,7 +2,7 @@
 
 * Git installer : Download the Git installer for Mac/Linux/Windows and follow the prompts to install Git
 * git --version: Open a terminal and verify the installation was successful by typing git --version
-  + $ git --version
+  + $ git --version:
 git version 2.9.2
 * git config --global user.name "Prinsu Kumar":
 * * git config --global user.email "pkvarnwal@gmail.com" Configure your Git username and email using the following commands, replacing Prinsu's name with your own. These details will be associated with any commits that you create:
