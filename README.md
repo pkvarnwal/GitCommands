@@ -1,5 +1,13 @@
 ### List of Git commands
 
+* Git installer : Download the Git installer for Mac/Linux/Windows and follow the prompts to install Git
+* git --version: Open a terminal and verify the installation was successful by typing git --version
+  + $ git --version
+git version 2.9.2
+* git config --global user.name "Prinsu Kumar":
+* * git config --global user.email "pkvarnwal@gmail.com" Configure your Git username and email using the following commands, replacing Prinsu's name with your own. These details will be associated with any commits that you create:
+  * git clone https://github.com/pkvarnwal/GitCommands.git: Copy the repo link and paste it on your terminal with git clone repo, then press enter.
+  * git init: To initialise the repo. 
 * git status : To check status
 * git add . : To add all files
 * git add FilePath : To add specific file
